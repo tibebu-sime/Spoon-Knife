@@ -33,4 +33,3 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 #### About me
 <!-- TO DO: add more details about me later -->
 
-H<sub>2</sub>O
