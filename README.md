@@ -8,8 +8,10 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
+
 <details>
 <summary>Things to rank</summary>
+  
 | Rank | Languages |
 |:----|----|
 |1    | SQL |
@@ -17,6 +19,8 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 |3    | Javascript |
   
 </details>
+
+
 
 **Managing themes**
 <picture>
