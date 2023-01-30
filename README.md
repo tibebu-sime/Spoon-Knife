@@ -23,6 +23,7 @@ Content Cell | Content Cell
 <details>
   <summary>Click Here</summary>
   <p>
+    
     ### We can hide anything --even codes!
     
     ```ruby
