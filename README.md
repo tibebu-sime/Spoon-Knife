@@ -24,7 +24,7 @@ Content Cell | Content Cell
   <summary>Click Here</summary>
   <p>
     
-    ### We can hide anything --even codes!
+    ###  We can hide anything --even codes!
     
     ```ruby
        puts "Hello World"
