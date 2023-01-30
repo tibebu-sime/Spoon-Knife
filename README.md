@@ -17,3 +17,14 @@ First Header | Second Header
 Content Cell | Content Cell
 Content Cell | Content Cell
 Content Cell | Content Cell
+
+**Collapsed Section**
+
+<details>
+  <summary>Click Here</summary>
+  <p>
+    ```ruby
+       puts "Hello World"
+    ```
+  </p>
+</details>
