@@ -10,6 +10,7 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 A line I wrote on my local computer
 Making some changes to the new branch and later will merge to the main
 
+**The pipes on either end of the table are optional**
 
 First Header | Second Header
 ----------   | ----------
