@@ -20,15 +20,14 @@ Content Cell | Content Cell
 
 **Collapsed Section**
 
-<details>
-  <summary>Click Here</summary>
-  <p>
-    
-    ###  We can hide anything --even codes!
-    
-    ```ruby
-       puts "Hello World"
-    ```
-    
-  </p>
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
 </details>
